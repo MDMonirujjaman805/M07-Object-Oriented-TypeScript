@@ -1,0 +1,28 @@
+# Ignore all log files
+*.log
+
+# Ignore temporary files
+*.tmp
+*.bak
+
+# Ignore build output directories
+build/
+target/
+
+# Ignore virtual environment directories
+env/
+
+# Ignore node_modules directory for JavaScript projects
+node_modules/
+dist/
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore IDE-specific files and directories
+.idea/
+.vscode/
+
+# Exclude a specific file from being ignored
+!important_config.json

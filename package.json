@@ -1,0 +1,17 @@
+{
+  "devDependencies": {
+    "typescript": "^5.9.3"
+  },
+  "name": "m07-object-oriented-typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev":"node src/M07V02-inheritance.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
