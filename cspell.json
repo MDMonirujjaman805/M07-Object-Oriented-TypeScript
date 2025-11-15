@@ -1,0 +1,48 @@
+{
+  "version": "0.2",
+  "language": "en",
+  "ignorePaths": ["node_modules", "dist", "build", ".git", "package-lock.json"],
+  "words": [
+    "async",
+    "await",
+    "backend",
+    "devtools",
+    "eslint",
+    "frontend",
+    "jsx",
+    "middleware",
+    "monir",
+    "monirujjaman",
+    "prettier",
+    "reactjs",
+    "tailwindcss",
+    "tsx",
+    "typescript",
+    "useEffect",
+    "useRef",
+    "useState"
+  ],
+  "ignoreRegExpList": ["/https?:\\/\\/[^\\s]+/g", "/#[a-fA-F0-9]{6}/g"],
+  "enableFiletypes": [
+    "javascript",
+    "typescript",
+    "javascriptreact",
+    "typescriptreact",
+    "html",
+    "css",
+    "json",
+    "markdown"
+  ],
+  "files": [
+    "src/index.ts",
+    "src/M06V01-typeAssertion.ts",
+    "src/M06V02-typeInterface.ts",
+    "src/M06V03-generics.ts",
+    "src/M06V04-genericWithInterface.ts",
+    "src/M06V08-enum.ts"
+  ],
+  "useGitignore": true,
+  "caseSensitive": false,
+  "noConfigSearch": false
+  // "checkDotFiles": false
+}
